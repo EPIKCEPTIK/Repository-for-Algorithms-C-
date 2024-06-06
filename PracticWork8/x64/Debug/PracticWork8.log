@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\vital\OneDrive\Рабочий стол\Лабы Алгоритми\Solution1\PracticWork8\FileName.cpp(21,41): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vital\OneDrive\Рабочий стол\Лабы Алгоритми\Solution1\PracticWork8\FileName.cpp(40,48): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vital\OneDrive\Рабочий стол\Лабы Алгоритми\Solution1\PracticWork8\FileName.cpp(53,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  PracticWork8.vcxproj -> C:\Users\vital\OneDrive\Рабочий стол\Лабы Алгоритми\Solution1\x64\Debug\PracticWork8.exe
